@@ -56,5 +56,5 @@ The analysis is performed on a comprehensive dataset containing **12,000 rows** 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/tech-layoffs-analysis.git](https://github.com/yourusername/tech-layoffs-analysis.git)
+   git clone [https://github.com/yousef-baiomyy/tech-layoffs-analysis.git](https://github.com/yousef-baiomyy/tech-layoffs-analysis.git)
    cd tech-layoffs-analysis
